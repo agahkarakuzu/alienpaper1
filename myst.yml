@@ -27,7 +27,7 @@ project:
   subject: Living Preprint
   numbering:
     headings: true
-  doi: 10.55458/neurolibre.xxxxx
+  doi: 10.55458/neurolibre.alien1
   open_access: true
   license: CC-BY-4.0
   abbreviations:
