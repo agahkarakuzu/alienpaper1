@@ -2,4 +2,4 @@ plotly
 numpy
 scipy
 pandas
-statsmodels 
+statsmodels

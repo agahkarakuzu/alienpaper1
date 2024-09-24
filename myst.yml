@@ -5,7 +5,7 @@ project:
   subtitle: ALien Brain ExtRacTion Analytics (ALBERTA) Consortium
   thebe:
     binder:
-      url: https://binder-preview.neurolibre.org
+      url: https://mybinder.neurolibre.org
       repo: agahkarakuzu/alienpaper1
       ref: HEAD
   authors:
@@ -21,7 +21,7 @@ project:
     - reproducible publishing
     - mystmd
     - next-gen preprints
-  github: https://github.com/neurolibre/mystical-article
+  github: https://github.com/agahkarakuzu/alienpaper1
   banner: static/banner.jpg
   venue: Neurolibre
   subject: Living Preprint
