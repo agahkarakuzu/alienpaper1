@@ -9,14 +9,12 @@ project:
       repo: agahkarakuzu/alienpaper1
       ref: HEAD
   authors:
-    - name: Agah Karakuzu
-      orcid: 0000-0001-7283-271X
+    - name: Alien Brain Consortium
       affiliations:
-        - NeuroPoly, Polytechnique Montreal, Quebec, Canada
-        - Montreal Heart Institute, Montreal, Quebec, Canada
+        - Where aliens live
     - name: Robo Neuro
       affiliations:
-        - NeuroLibre, Montreal, Quebec, Canada
+        - Where robots live
   keywords:
     - reproducible publishing
     - mystmd
