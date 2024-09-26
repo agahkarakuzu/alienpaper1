@@ -28,6 +28,16 @@ Memory Score: Standardized memory performance score based on cognitive testing.
 
 ## Results
 
+### Alienarity Index
+
+:::{figure} #fig0cell
+:label: fig0
+
+Scatter plot showing the relationship between alienarity index and memory performance.
+:::
+
+### Hippocampal Volume
+
 :::{figure} #fig1cell
 :label: fig1
 
@@ -36,6 +46,7 @@ Scatter plot showing the relationship between hippocampal volume and memory perf
 
 The scatter plot demonstrates a clear positive relationship between hippocampal volume and memory performance, supporting the idea that individuals with larger hippocampi tend to have better memory function.
 
+### Brain Density
 
 :::{figure} #fig2cell
 :label: fig2
@@ -45,6 +56,7 @@ Scatter plot illustrating the relationship between brain density and memory scor
 
 Brain density also showed a significant positive correlation with memory performance. This suggests that the density of neurons and synapses in the brain may enhance memory capacity.
 
+### Network Efficiency
 
 :::{figure} #fig3cell
 :label: fig3
